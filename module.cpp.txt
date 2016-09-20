@@ -18,7 +18,7 @@ public:
     }
 
     void solution(){
-
+        getdata();
     }
     
     void see(){
@@ -29,7 +29,8 @@ public:
 
 
 int main(void){
-
-
-   return EXIT_SUCCESS;
+    Problem p;
+    p.solution();
+    p.see();
+    return EXIT_SUCCESS;
 }
