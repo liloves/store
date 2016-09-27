@@ -1,2 +1,2 @@
 # store
-store my practice codes
+此处保存了练习和模板，用于记录和下次使用。
